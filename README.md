@@ -27,9 +27,6 @@ git commit -m "Initial commit"
 After cloning the repository, you to replace the dummy content from the template with the content of your workshop materials:
 
 - [ ] [Update license information](README.md#license)
-- [ ] [Update dummy config](config.toml)
-- [ ] [Update dummy home page text](content/_index.md)
-- [ ] [Update dummy subject](content/subject-one)
 - [ ] [Add legal text to imprint](content/imprint.html)
 
 ## Development

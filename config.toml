@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://docs.vm-intern.epages.com/google-smart-shopping"
+languageCode = "de-de"
 title = "My New Hugo Site"
 theme = "workshop-materials"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 [params]
-  subject = "IT"
-  feedbackLink = "https://github.com/experimental-software/workshop-materials/issues/new"
+  subject = "Google Smart Shopping"
+  feedbackLink = "mailto:info@epages.com"

@@ -1,16 +1,7 @@
 ---
-tagline: Example project for IT Workshop materials.
-primaryLinkIcon: fas fa-code
-primaryLinkText: Template
-primaryLinkHref: https://github.com/experimental-software/workshop-materials
+tagline: Workshop zur Nutzung von Google Smart Shopping mit ePages Now
 ---
 
-# Welcome!
+# Herzlich Willkommen!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Cras sit amet varius eros.
-Praesent ac nisi vitae lorem euismod cursus.
-Mauris id sem quis purus aliquam cursus ut sit amet risus.
-Donec tempor quis orci in facilisis.
-In ultrices urna scelerisque libero cursus rhoncus.
-Vestibulum feugiat arcu vel odio lacinia sollicitudin.
+Auf dieser Webseite finden Sie Anleitungen zur Einrichtung und Nutzung von Google Smart Shopping in Ihrem ePages Now Shop.
