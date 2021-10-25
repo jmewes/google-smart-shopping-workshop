@@ -1,4 +1,4 @@
-baseURL = "https://docs.vm-intern.epages.com/google-smart-shopping"
+baseURL = "https://jmewes.github.io/ep-google-smart-shopping"
 languageCode = "de-de"
 title = "My New Hugo Site"
 theme = "workshop-materials"
