@@ -1,0 +1,10 @@
+- id: tutorial.back
+  translation: "Zurück"
+- id: tutorial.continue
+  translation: "Weiter"
+- id: tutorial.done
+  translation: "Fertig!"
+- id: callout.tip
+  translation: "Tipp"
+- id: callout.warning
+  translation: "Achtung"
