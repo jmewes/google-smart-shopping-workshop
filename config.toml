@@ -1,9 +1,9 @@
-baseURL = "https://jmewes.github.io/ep-google-smart-shopping"
+baseURL = "http://epages-de.github.io/google-smart-shopping-workshop"
 languageCode = "de-de"
-title = "My New Hugo Site"
+title = "Smart Shopping"
 theme = "workshop-materials"
 defaultContentLanguage = "de"
 
 [params]
-  subject = "Google Smart Shopping"
+  subject = "Smart Shopping"
   feedbackLink = "mailto:info@epages.com"
