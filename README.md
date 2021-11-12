@@ -1,33 +1,6 @@
-# Workshop Materials Template
+# Google Smart Shopping Workshop
 
-This repository contains a scaffold for quickly creating new websites with the [Workshop Materials](https://github.com/experimental-software/workshop-materials) Hugo theme.
-
-## Getting started
-
-### Create project
-
-```
-PROJECT_NAME=your-project-here
-git clone --recurse \
-  git@github.com:experimental-software/workshop-materials-template.git \
-  $PROJECT_NAME
-```
-
-To reset the branch history, run:
-
-```
-cd $PROJECT_NAME
-git checkout --orphan master
-git add .
-git commit -m "Initial commit"
-```
-
-### Update dummy content
-
-After cloning the repository, you to replace the dummy content from the template with the content of your workshop materials:
-
-- [ ] [Update license information](README.md#license)
-- [ ] [Add legal text to imprint](content/imprint.html)
+This repository contains workshop materials for the pilot launch of the Google Smart Shopping integration in ePages Now.
 
 ## Development
 
@@ -124,4 +97,4 @@ git commit -m "Update theme"
 
 ## License
 
-This template repository is licensed under the [CreativeCommons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) license.
+Copyright ePages 2021
