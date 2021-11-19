@@ -1,4 +1,4 @@
-baseURL = "https://kampagne-erstellen.de"
+baseURL = "http://kampagne-erstellen.de"
 languageCode = "de-de"
 title = "Smart Shopping"
 theme = "workshop-materials"
