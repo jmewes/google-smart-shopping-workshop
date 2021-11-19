@@ -1,5 +1,5 @@
 ---
 title: Produkttypen & -attribute hinzufügen
 type: tutorial
-weight: 3
+weight: 2
 ---

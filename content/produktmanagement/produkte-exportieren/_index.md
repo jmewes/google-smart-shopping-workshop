@@ -1,5 +1,5 @@
 ---
 title: Produkte exportieren
 type: tutorial
-weight: 2
+weight: 3
 ---
