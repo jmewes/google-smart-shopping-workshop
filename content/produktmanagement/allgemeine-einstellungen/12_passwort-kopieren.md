@@ -4,6 +4,8 @@ title: Passwort kopieren
 
 Kopieren Sie das neue Passwort.
 
+![passwort kopieren](img/passwort-kopieren.png)
+
 {{< warning >}}
 Hinweise: 
 
