@@ -83,9 +83,11 @@ hugo new --kind presentation subject-two/my-presentation
 ### Update theme
 
 ```
+{
 git submodule update --remote
 git add .
 git commit -m "Update theme"
+}
 ```
 
 ## Credits
