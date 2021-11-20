@@ -7,3 +7,4 @@ defaultContentLanguage = "de"
 [params]
   subject = "Smart Shopping"
   feedbackLink = "mailto:info@epages.com"
+  feedbackIcon = "fas fa-hands-helping"
