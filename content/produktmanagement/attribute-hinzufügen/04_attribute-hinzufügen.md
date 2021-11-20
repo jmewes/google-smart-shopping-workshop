@@ -2,15 +2,14 @@
 title: Attribute hinzufügen
 ---
 
-Attribute hinzufügen.
-
-*Hinweis*: Die benötigten Attribute finden Sie unter diesem [Link](https://support.google.com/merchants/answer/7052112?hl=de).
-
+{{< info >}}
+**Hinweis**: Die benötigten Attribute finden Sie unter diesem [Link](https://support.google.com/merchants/answer/7052112?hl=de).
+{{< /info >}}
 
 ![attribute-hinzufügen Schritt 1](img/attribute-hinzufügen_1.png)
 
 {{< warning >}}
-Die Attribute müssen exakt mit den gezeigten, englischen Namen und Werten angelegt werden.
+**Hinweis**: Die Attribute müssen exakt mit den gezeigten, englischen Namen und Werten angelegt werden.
 {{< /warning >}}
 
 ## Attribut für Kategorien anlegen
