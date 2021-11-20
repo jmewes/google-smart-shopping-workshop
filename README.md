@@ -2,7 +2,12 @@
 
 This repository contains workshop materials for the pilot launch of the Google Smart Shopping integration in ePages Now.
 
-## Development
+## Dependencies
+
+- [Go Hugo](https://gohugo.io/getting-started/installing)
+- Any text editor, e.g. Atom or VS Code
+
+## Content authoring
 
 ### Run Hugo server
 
@@ -12,19 +17,7 @@ To a development server that always re-renders after every change, run the follo
 hugo server
 ```
 
-### Build website
-
-To generate the HTML for publication, run the following command:
-
-```
-hugo --destination docs/
-```
-
-## Content authoring
-
-### Tutorials
-
-#### Add a new tutorial
+### Add a new tutorial
 
 Run the following command to add a new presentation in Hugo's `content` directory:
 
@@ -32,9 +25,9 @@ Run the following command to add a new presentation in Hugo's `content` director
 hugo new --kind tutorial subject-two/my-tutorial
 ```
 
-#### Content syntax
+### Content syntax
 
-The presentations can be created using [Markdown](https://daringfireball.net/projects/markdown/) syntax.
+The presentations can be created using [Markdown](https://www.markdownguide.org/basic-syntax) syntax.
 
 #### Content syntax extensions
 
@@ -64,20 +57,6 @@ Lorem [impsum](https://example.com) dolor sit amet.
 {{< /warning >}}
 ```
 
-### Presentations
-
-#### Presentation syntax
-
-The presentations can be created using plain HTML with the [reveal.js](https://revealjs.com/) syntax.
-
-#### Add a new presentation
-
-Run the following command to add a new presentation in Hugo's `content` directory:
-
-```
-hugo new --kind presentation subject-two/my-presentation
-```
-
 ## Maintenance
 
 ### Update theme
@@ -88,6 +67,14 @@ git submodule update --remote
 git add .
 git commit -m "Update theme"
 }
+```
+
+### Build website
+
+To generate the HTML for publication, run the following command:
+
+```
+hugo --destination docs/
 ```
 
 ## Credits
