@@ -2,8 +2,8 @@
 title: Übersicht
 ---
 
-Lorem ipsum dolor sit amet (Hallo Welt), consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+In dieser Anleitung wird Ihnen Schritt für Schritt gezeigt, wie Sie Produkte aus dem Administrationsbereich Ihres Shops ins Google Merchant Center hochladen können. 
+Gestartet wird mit den allgemeinen Einstellungen, um Konfigurationen innerhalb der Shop-Umgebung und des Merchant Centers korrekt vorzunehmen und den Upload vorzubereiten.
 
-![Beispiel](img/Selection_421.png)
 
-![Beispiel](img/Selection_434.png)
+

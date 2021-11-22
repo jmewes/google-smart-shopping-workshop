@@ -2,4 +2,5 @@
 title: Übersicht
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu consequat nunc. Morbi pharetra pulvinar eros, id sagittis turpis volutpat at. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+In diesem Schritt wird dargestellt, wie Sie bei Ihren Produkten die Produkttypen und -attribute pflegen, um diese für den Upload vorzubereiten.
+Die hier aufgezeigten Produkttypen und Attribute sind als **Beispiel** zu verstehen und eventuell **nicht passend für Ihren Shop**.
