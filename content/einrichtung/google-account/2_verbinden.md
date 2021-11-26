@@ -1,7 +1,15 @@
 ---
-title: Google-Konto verbinden
+title: Einrichtung beginnen
 ---
 
-Starten Sie die Verbindung mit Ihrem Google Account, indem Sie in der Shop Administration den Menüpunkt "Marketing > Google Smart Shopping" auswählen, und dann auf den "Google-Konto verbinden" Button klicken.
+Starten Sie die Nutzung von Shopping-Anzeigen auf Google, indem Sie in der Shop Administration den Menüpunkt "Marketing > Google Smart Shopping" auswählen, und dann auf den "Shopping-Anzeigen auf Google einrichten" Button klicken.
 
-![Google account verbinden](img/google-account-verbinden.png)
+![Start button](img/shopping-anzeigen-auf-google-einrichten.png)
+
+Daraufhin öffnet sich ein Popup Dialog mit einer Webseite, auf der die Shopping-Anzeigen auf Google Anbindung erklärt wird. Klicken Sie auf die "Mit Google anmelden" Button, um mit der Einrichtung fortzufahren.
+
+![Mit Google anmelden](img/mit-google-anmelden.png)
+
+
+
+
