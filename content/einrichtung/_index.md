@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Accounts einrichten
+title: Konten einrichten
 teaser: Verbinden Sie sich mit Google Shopping und Google Ads.
 icon: fab fa-google
 ---

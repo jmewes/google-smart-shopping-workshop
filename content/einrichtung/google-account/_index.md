@@ -1,5 +1,5 @@
 ---
-title: Google Account
+title: Google Konto
 type: tutorial
 weight: 1
 ---
