@@ -21,6 +21,8 @@ git clone https://github.com/ePages-de/google-smart-shopping-workshop.git
 To start a development server that always re-renders after every change, run the following command:
 
 ```
+cd google-smart-shopping-workshop
+
 hugo server
 ```
 
