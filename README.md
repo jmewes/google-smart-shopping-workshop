@@ -76,9 +76,9 @@ To improve the layout of the workshop website, edit the following files:
 
 | Page | Layout source code |
 |--|--|
-| Homepage | [./themes/workshop-materials-fork/layouts/index.html](./themes/workshop-materials-fork/layouts/index.html) |
-| Tutorials | [./themes/workshop-materials-fork/layouts/tutorial/list.html](./themes/workshop-materials-fork/layouts/tutorial/list.html) |
-| Articles | [./themes/workshop-materials-fork/layouts/article/single.html](./themes/workshop-materials-fork/layouts/article/single.html) |
+| Homepage | [./themes/workshop-materials-fork/layouts/index.html](./themes/workshop-materials-fork/layouts/index.html) </br> [./themes/workshop-materials-fork/static/prettydocs/layout.css](./themes/workshop-materials-fork/static/prettydocs/layout.css) |
+| Tutorials | [./themes/workshop-materials-fork/layouts/tutorial/list.html](./themes/workshop-materials-fork/layouts/tutorial/list.html) </br> [./themes/workshop-materials-fork/static/tutorial/layout.css](./themes/workshop-materials-fork/static/tutorial/layout.css) |
+| Articles | [./themes/workshop-materials-fork/layouts/article/single.html](./themes/workshop-materials-fork/layouts/article/single.html) </br> [./themes/workshop-materials-fork/static/article/layout.css](./themes/workshop-materials-fork/static/article/layout.css) |
 
 If you are using Hugo like described at the beginning, changing a file should auto-reload the preview of the website.
 
