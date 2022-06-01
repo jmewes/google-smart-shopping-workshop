@@ -6,16 +6,25 @@ This repository contains workshop materials for the pilot launch of the Google S
 
 - [Go Hugo](https://gohugo.io/getting-started/installing)
 - Any text editor, e.g. Atom or VS Code
+- [Git](https://git-scm.com/downloads)
 
-## Content authoring
+## Gettting started
 
-### Run Hugo server
+**Clone repository**
 
-To a development server that always re-renders after every change, run the following command:
+```
+git clone https://github.com/ePages-de/google-smart-shopping-workshop.git
+```
+
+**Run Hugo server**
+
+To start a development server that always re-renders after every change, run the following command:
 
 ```
 hugo server
 ```
+
+## Content authoring
 
 ### Add a new tutorial
 
@@ -61,13 +70,15 @@ Lorem [impsum](https://example.com) dolor sit amet.
 
 ### Update theme
 
-```
-{
-git submodule update --remote
-git add .
-git commit -m "Update theme"
-}
-```
+To improve the layout of the workshop website, edit the following files:
+
+| Page | Layout source code |
+|--|--|
+| Homepage | [./themes/workshop-materials-fork/layouts/index.html](./themes/workshop-materials-fork/layouts/index.html) |
+| Tutorials | [./themes/workshop-materials-fork/layouts/tutorial/list.html](./themes/workshop-materials-fork/layouts/tutorial/list.html) |
+| Articles | [./themes/workshop-materials-fork/layouts/article/single.html](./themes/workshop-materials-fork/layouts/article/single.html) |
+
+If you are using Hugo like described at the beginning, changing a file should auto-reload the preview of the website.
 
 ### Build website
 
