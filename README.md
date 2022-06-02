@@ -76,9 +76,10 @@ To improve the layout of the workshop website, edit the following files:
 
 | Page | Layout source code |
 |--|--|
-| Homepage | [./themes/workshop-materials-fork/layouts/index.html](./themes/workshop-materials-fork/layouts/index.html) </br> [./themes/workshop-materials-fork/static/prettydocs/layout.css](./themes/workshop-materials-fork/static/prettydocs/layout.css) |
-| Tutorials | [./themes/workshop-materials-fork/layouts/tutorial/list.html](./themes/workshop-materials-fork/layouts/tutorial/list.html) </br> [./themes/workshop-materials-fork/static/tutorial/layout.css](./themes/workshop-materials-fork/static/tutorial/layout.css) |
-| Articles | [./themes/workshop-materials-fork/layouts/article/single.html](./themes/workshop-materials-fork/layouts/article/single.html) </br> [./themes/workshop-materials-fork/static/article/layout.css](./themes/workshop-materials-fork/static/article/layout.css) |
+| Homepage | [./layouts/index.html](./layouts/index.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) |
+| Topic overview | [./layouts/_default/list.html](./layouts/_default/list.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) </br> [./static/prettydocs/layout.css](./static/prettydocs/category.css) |
+| Tutorials | [./layouts/tutorial/list.html](./layouts/tutorial/list.html) </br> [./static/tutorial/layout.css](./static/tutorial/layout.css) |
+| Articles | [./layouts/article/single.html](./layouts/article/single.html) </br> [./static/article/layout.css](./static/article/layout.css) |
 
 If you are using Hugo like described at the beginning, changing a file should auto-reload the preview of the website.
 
