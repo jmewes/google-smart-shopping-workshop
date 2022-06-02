@@ -4,7 +4,7 @@ This repository contains workshop materials for the pilot launch of the Google S
 
 ## Dependencies
 
-- [Go Hugo](https://gohugo.io/getting-started/installing)
+- [Hugo](https://gohugo.io/getting-started/installing)
 - Any text editor, e.g. Atom or VS Code
 - [Git](https://git-scm.com/downloads)
 
