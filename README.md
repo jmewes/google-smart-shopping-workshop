@@ -36,6 +36,8 @@ cd google-smart-shopping-workshop
 hugo server
 ```
 
+The website will then be available here: http://localhost:1313
+
 ## Content authoring
 
 ### Add a new tutorial
