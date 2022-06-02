@@ -8,6 +8,16 @@ This repository contains workshop materials for the pilot launch of the Google S
 - Any text editor, e.g. Atom or VS Code
 - [Git](https://git-scm.com/downloads)
 
+**Install Hugo on macOS**
+
+If you are using [Homebrew](https://brew.sh) on macOS, then installing Hugo is as easy as calling this command on the terminal:
+
+```
+brew install hugo
+```
+
+For other systems refer to the [Hugo documentation](https://gohugo.io/getting-started/installing). It is also fairly simple.
+
 ## Gettting started
 
 **Clone repository**
