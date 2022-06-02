@@ -89,7 +89,7 @@ To improve the layout of the workshop website, edit the following files:
 | Page | Layout source code |
 |--|--|
 | Homepage | [./layouts/index.html](./layouts/index.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) |
-| Topic overview | [./layouts/_default/list.html](./layouts/_default/list.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) </br> [./static/prettydocs/layout.css](./static/prettydocs/category.css) |
+| Topic overview | [./layouts/_default/list.html](./layouts/_default/list.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) </br> [./static/prettydocs/category.css](./static/prettydocs/category.css) |
 | Tutorials | [./layouts/tutorial/list.html](./layouts/tutorial/list.html) </br> [./static/tutorial/layout.css](./static/tutorial/layout.css) |
 | Articles | [./layouts/article/single.html](./layouts/article/single.html) </br> [./static/article/layout.css](./static/article/layout.css) |
 
