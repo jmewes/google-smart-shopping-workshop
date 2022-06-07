@@ -1,5 +1,5 @@
 ---
-tagline: Workshop zur Nutzung von Google Smart Shopping mit ePages Now
+tagline: Anleitung zur Nutzung von Google P-Max Kampagnen in Ihrem Telekom-Webshop
 ---
 
-Auf dieser Website finden Sie Anleitungen zur Einrichtung und Nutzung von Google Smart Shopping in Ihrem ePages Now Shop.
+Auf dieser Website finden Sie Anleitungen zur Einrichtung und Nutzung von Google P-Max in Ihrem Telekom-Webshop.
