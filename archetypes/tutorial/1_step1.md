@@ -1,5 +1,5 @@
 ---
-title: First step
+title: FAQs
 ---
 
-Lorem ipsum dolor sit amet.
+Häufig gestellte Fragen und Antworten.
