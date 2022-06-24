@@ -1341,10 +1341,6 @@ select {
   height: 100%;
 }
 
-.cards-section .item-inner h3 {
-  min-height: 2em;
-}
-
 .cards-section .item-inner .link {
   position: absolute;
   width: 100%;
