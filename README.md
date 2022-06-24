@@ -48,6 +48,14 @@ Run the following command to add a new presentation in Hugo's `content` director
 hugo new --kind tutorial subject-two/my-tutorial
 ```
 
+### Add a new article
+
+Run the following command to add a new article in Hugo's `content` directory:
+
+```
+hugo new --kind article subject-two/my-tutorial
+```
+
 ### Content syntax
 
 The presentations can be created using [Markdown](https://www.markdownguide.org/basic-syntax) syntax.
@@ -86,12 +94,12 @@ Lorem [impsum](https://example.com) dolor sit amet.
 
 To improve the layout of the workshop website, edit the following files:
 
-| Page | Layout source code |
-|--|--|
-| Homepage | [./layouts/index.html](./layouts/index.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) |
-| Topic overview | [./layouts/_default/list.html](./layouts/_default/list.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) </br> [./static/prettydocs/category.css](./static/prettydocs/category.css) |
-| Tutorials | [./layouts/tutorial/list.html](./layouts/tutorial/list.html) </br> [./static/tutorial/layout.css](./static/tutorial/layout.css) |
-| Articles | [./layouts/article/single.html](./layouts/article/single.html) </br> [./static/article/layout.css](./static/article/layout.css) |
+| Page           | Layout source code                                                                                                                                                                                              |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Homepage       | [./layouts/index.html](./layouts/index.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css)                                                                                             |
+| Topic overview | [./layouts/\_default/list.html](./layouts/_default/list.html) </br> [./static/prettydocs/layout.css](./static/prettydocs/layout.css) </br> [./static/prettydocs/category.css](./static/prettydocs/category.css) |
+| Tutorials      | [./layouts/tutorial/list.html](./layouts/tutorial/list.html) </br> [./static/tutorial/layout.css](./static/tutorial/layout.css)                                                                                 |
+| Articles       | [./layouts/article/single.html](./layouts/article/single.html) </br> [./static/article/layout.css](./static/article/layout.css)                                                                                 |
 
 If you are using Hugo like described at the beginning, changing a file should auto-reload the preview of the website.
 
@@ -108,7 +116,7 @@ hugo --destination docs/
 - The layout of the start page and the subject list pages is applied from a Bootstrap template by [Xiaoying Riley](https://themes.3rdwavemedia.com/) which is licensed under Creative Commons Attribution 3.0 License.
 - The layout of the tutorial pages is inspired by [Google Codelabs](https://github.com/googlecodelabs/tools).
 - The presentations are based on [reveal.js](https://revealjs.com/) which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
-- At various places of the website [Font Awesome](https://fontawesome.com/) icons are used.
+- At various places of the website [Font Awesome](https://fontawesome.com/v5/search?q=start&m=free&s=solid%2Cbrands) icons are used.
 
 ## License
 
