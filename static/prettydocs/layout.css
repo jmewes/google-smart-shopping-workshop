@@ -1287,13 +1287,13 @@ select {
 
 .cards-section .intro {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 1000px;
   margin-bottom: 60px;
   color: #616670;
 }
 
 .cards-section .cards-wrapper {
-  max-width: 860px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1320,7 +1320,12 @@ select {
 }
 
 .cards-section .item-inner {
-  padding: 45px 30px;
+  
+  padding-top: 25px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+
   background: #fff;
   position: relative;
   border: 1px solid #f0f0f0;
@@ -1333,6 +1338,10 @@ select {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   height: 100%;
+}
+
+.cards-section .item-inner h3 {
+  min-height: 2em;
 }
 
 .cards-section .item-inner .link {

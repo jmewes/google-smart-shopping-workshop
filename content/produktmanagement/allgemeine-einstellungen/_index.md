@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Einstellungen :)
+title: Allgemeine Einstellungen
 type: tutorial
 weight: 1
 ---
