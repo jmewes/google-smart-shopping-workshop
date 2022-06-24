@@ -4,4 +4,4 @@ title: FAQ
 icon: fas fa-question-circle
 ---
 
-FAQ description.
+Hier finden Sie häufig gestellte Fragen und die Antworten dazu.
