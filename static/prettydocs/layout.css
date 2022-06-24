@@ -28,6 +28,7 @@ html, body {
   min-height: 100%;
   /* equal to footer height */
   margin-bottom: -50px;
+  background-color: #f9f9fb !important;
 }
 
 .page-wrapper:after {
