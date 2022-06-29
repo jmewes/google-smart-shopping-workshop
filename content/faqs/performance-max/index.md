@@ -1,6 +1,6 @@
 ---
 title: Was sind Performance Max-Kampagnen? 
-weight: 4
+weight: 1
 type: article
 ---
 

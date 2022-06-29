@@ -1,10 +1,10 @@
 ---
-title: Wie kann ich eine erneute Überprüfung beantragen, wenn mein Konto gesperrt wurde?
+title: Falls mein Konto gesperrt wurde, wie kann ich eine erneute Üerprüfunge beantragen?
 weight: 8
 type: article
 ---
 
-## Wie kann ich eine erneute Überprüfung beantragen, wenn mein Konto gesperrt wurde?
+## Falls mein Konto gesperrt wurde, wie kann ich eine erneute Üerprüfunge beantragen?
 Wenn Ihr Konto gesperrt wurde, können Sie wie folgt eine Überprüfung beantragen:
 
 - Melden Sie sich bei Ihrem Google Merchant Center-Konto an

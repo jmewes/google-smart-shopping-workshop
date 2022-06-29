@@ -1,10 +1,10 @@
 ---
-title: Warum habe ich eine Kontowarnung oder eine Sperrung erhalten?
+title: Ich habe eine Kontowarnung oder eine Sperrung erhalten, wie konnte das passieren?
 weight: 7
 type: article
 ---
 
-## Warum habe ich eine Kontowarnung oder eine Sperrung erhalten?
+## Ich habe eine Kontowarnung oder eine Sperrung erhalten, wie konnte das passieren?
 <br></br>
 Wenn Ihre Website oder Ihre Produkte nicht den Anforderungen des [Google Merchant Centers](https://support.google.com/merchants/answer/6363310?hl=de) und den [Richtlinien für Shopping-Anzeigen](https://support.google.com/merchants/answer/6149970?hl=de) entsprechen, können Ihre Produkte abgelehnt werden und Sie erhalten möglicherweise: 
 

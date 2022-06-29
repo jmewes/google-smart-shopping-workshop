@@ -1,6 +1,6 @@
 ---
 title: Was ist das Google Merchant Center? 
-weight: 1
+weight: 2
 type: article
 ---
 

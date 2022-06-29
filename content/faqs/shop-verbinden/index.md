@@ -1,6 +1,6 @@
 ---
 title: Wie verbinde ich meinen Shop mit dem Google Merchant Center?
-weight: 2
+weight: 3
 type: article
 ---
 
