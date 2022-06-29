@@ -1,14 +1,13 @@
 ---
 title: Wie kann ich eine erneute Überprüfung beantragen, wenn mein Konto gesperrt wurde?
-weight: 5
+weight: 6
 type: article
 ---
 
 ## Wie kann ich eine erneute Überprüfung beantragen, wenn mein Konto gesperrt wurde?
-
 Wenn Ihr Konto gesperrt wurde, können Sie wie folgt eine Überprüfung beantragen:
 
-- Melden Sie sich bei Ihrem [Google Merchant Center-Konto](https://www.google.com/retail/solutions/merchant-center/) an
+- Melden Sie sich bei Ihrem Google Merchant Center-Konto an
 - Navigieren Sie auf der Diagnoseseite zu **Account issues**
 - Suchen Sie das Problem auf Kontoebene, das Sie überprüfen lassen möchten.
 - Vergewissern Sie sich, dass die Produkte auf Lager sind und alle Probleme für das betroffene Verkaufsland gelöst sind.
