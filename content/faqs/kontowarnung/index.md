@@ -1,6 +1,6 @@
 ---
 title: Warum habe ich eine Kontowarnung oder eine Sperrung erhalten?
-weight: 5
+weight: 6
 type: article
 ---
 

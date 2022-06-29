@@ -1,6 +1,6 @@
 ---
 title: Wie teuer sind Performance Max-Kampagnen? 
-weight: 4
+weight: 5
 type: article
 ---
 
