@@ -1,7 +1,7 @@
 baseURL = "http://kampagne-erstellen.de"
 languageCode = "de-de"
-title = "Smart Shopping"
+title = "Performance Max"
 defaultContentLanguage = "de"
 
 [params]
-  subject = "Smart Shopping"
+  subject = "Performance Max"
