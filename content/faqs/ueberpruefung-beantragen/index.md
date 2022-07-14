@@ -1,5 +1,5 @@
 ---
-title: Falls mein Konto gesperrt wurde, wie kann ich eine erneute Üerprüfung beantragen?
+title: Falls mein Konto gesperrt wurde, wie kann ich eine erneute Überprüfung beantragen?
 weight: 8
 type: article
 ---
