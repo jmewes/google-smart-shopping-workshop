@@ -8,7 +8,7 @@ Um gegenüber von Google Shopping zu versichern, dass Sie der Besitzer Ihrer Sho
 
 Im nächsten Schritt muss zur Verfifzierung die Telefonnummer hinterlegt werden. 
 
-![](img/telefonnumer-verifizierung.png)
+![](img/telefonnumer-verifizeriung.png)
 
 An diese Telefonnummer wird ein Besätigunscode geschickt, der in der folgenden Maske eingegeben wird.
 
