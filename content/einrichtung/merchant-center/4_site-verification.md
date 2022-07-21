@@ -19,6 +19,6 @@ Wenn alle Schritte erfolgreich waren, erscheint folgende Meldung:
 ![](img/merchant-center-success.png)
 
 {{< warning >}}
-Falls es zu einem Fehler bei der Beanspruchung der Shop-Domain gekommen ist, wenden Sie sich bitte an den [Support](mailto:info@epages.com).
+Falls es zu einem Fehler bei der Beanspruchung der Shop-Domain gekommen ist, wenden Sie sich bitte an den [Support](mailto:Googleads@epages.com).
 {{< /warning >}}
 
